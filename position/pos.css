@@ -1,0 +1,13 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    /* margin-left: 50px; */
+    display: inline-block;
+    position: sticky;
+}
+.parent{
+    height: 2000px;
+    width: 200px;
+    border: 2px solid red;
+}
